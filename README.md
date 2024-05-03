@@ -1,6 +1,6 @@
 # Finding-MiningSites
 
-This repository contains the work done for a data analysis competition. It includes various modules with functionalities such as model training, evaluation, and generating predictions.
+This repository contains work done in the **Finiding Mining Sites** competition at Solafune. It includes various modules for model training, evaluation, and prediction for submission.
 
 ## Structure
 
@@ -14,7 +14,7 @@ This repository contains the work done for a data analysis competition. It inclu
 - `metric.py`: Module defining evaluation metrics.
 - `models.py`: Module defining machine learning models.
 - `plot.py`: Module for visualization and plotting.
-- `submission.py`: Script for make submission file  predictions.
+- `submission.py`: Script to predict test data and make submission file.
 - `train.py`: Script for training models.
 - `transform.py`: Module for data transformations and augmentations.
 
@@ -25,10 +25,10 @@ pip install -r requirements.txt
 
 2. Run `features.py` to make some features to train the model that predicta presense or absense for Mining Sites.
 
-3. Edit the configuration file (`config.py`) to adjust the settings for training and data processing.
+3. Edit the configuration file (`config.py`) to set for training and data processing.
 
 4. Run `train.py` to train the models.
 
 5. Run `evaluate.py` to evaluate the trained models.
 
-6. Run `submission.py` to generate the final predictions.
+6. Run `submission.py` to make submission file!
