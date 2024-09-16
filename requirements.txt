@@ -15,7 +15,7 @@ torchaudio==2.0.2+cu118
 torcheval==0.0.7
 torchmetrics==1.2.1
 torchvision==0.15.2+cu118
-tqdm==4.65.0
+tqdm==4.66.3
 transformers==4.29.2
 ipykernel==6.23.1
 ipython==8.13.2
