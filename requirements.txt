@@ -16,7 +16,7 @@ torcheval==0.0.7
 torchmetrics==1.2.1
 torchvision==0.15.2+cu118
 tqdm==4.65.0
-transformers==4.38.0
+transformers==4.53.0
 ipykernel==6.23.1
 ipython==8.13.2
 ipywidgets==8.0.6
